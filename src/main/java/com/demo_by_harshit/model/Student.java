@@ -1,9 +1,9 @@
 package com.demo_by_harshit.model;
 
 public class Student {
-    String name;
-    int age;
-    String branch;
+    private String name;
+    private int age;
+    private String branch;
 
     //parameterized constructor
 
